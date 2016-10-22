@@ -1,0 +1,82 @@
+header {
+	background-color: #a3d1d9;
+	height: 50px;
+}
+.container-head {
+	width: 800px;
+	margin: 0 auto;
+	overflow: hidden;
+}
+.head-logo {
+	width: 200px;
+	display: inline;
+	float: left;
+	padding-top: 20px;
+	color: #3a494c;
+}
+.head-links {
+	display: inline;
+	float: right;
+	padding-top: 20px;
+	padding-right: 0px;
+}
+.head-links a {
+	color: #3a494c;
+	font-family: Tahoma;
+	padding-left: 20px;
+}
+
+.land {
+	background-color: #a3d1d9;
+	height: 300px;
+}
+
+.welcome {
+	padding-top: 100px;
+	width: 300px;
+	float: left;
+	color: #FFFFFF;
+	font-size: 36px;
+	text-align: center;	
+}
+.welcome-image {
+	padding-top: 50px;
+	padding-left: 150px;
+	float: left;
+	text-align: right;
+}
+.welcome-link {
+	color: #a3d1d9;
+	padding: 12px;
+	background-color: #fff;
+	font-size: 12px;
+	border-radius: 10px;
+	text-decoration: none;
+	font-weight: Bold;
+}
+
+.preim {
+	background-color: #FFFFF;
+	height: 300px;
+}
+.preim-item {
+	padding-top: 40px;
+	width: 240px;
+	float: left;
+	color: #323232;
+	text-align: center;	
+	border:#fff solid 1px;
+	text-align: center;
+	margin-left: 12px;
+}
+.preim-item .title {
+	font-size: 18px;
+	font-weight: Bold;
+	padding-top: 10px;
+}
+.preim-item .description {
+	padding-top: 10px;
+	font-size: 12px;
+
+
+}
