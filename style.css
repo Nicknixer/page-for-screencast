@@ -54,6 +54,12 @@ header {
 	text-decoration: none;
 	font-weight: Bold;
 }
+.wel-img {
+	height: 220px;
+	width: 300px;
+	box-shadow: 0px 20px 40px -30px;
+	margin-bottom: 15px;
+}
 
 .preim {
 	background-color: #FFFFF;
@@ -80,3 +86,102 @@ header {
 
 
 }
+
+.works {
+	background-color: #99d4a5;
+}
+.works-label {
+	margin: 0 auto;
+	text-align: center;
+	padding-top: 15px;
+	font-size: 24px;
+	color: #FFF;
+}
+.works-description {
+	width: 400px;
+	text-align: center;
+	padding-top: 15px;
+	font-size: 14px;
+	color: #769c7e;
+	margin: 0 auto;
+}
+.works-navi {
+margin: 15px auto;
+text-align: center;
+}
+.works-navi a {
+	color: #3a494c;
+	font-family: Tahoma;
+	margin-right: 15px;
+	padding: 5px;
+	color: #FFFFFF;
+	text-decoration: none;
+	border-radius: 10px;
+	border: #99d4a5 solid 2px;
+}
+.works-navi a:hover {
+	border: #FFFFFF solid 2px;
+}
+
+.works-navi .active-link {
+	background-color: #fff;
+	color: #99d4a5;
+	border: #FFFFFF solid 2px;
+}
+
+.works-img  img{
+	width: 220px;
+	height: 150px;
+	margin: 15px 20px;
+}
+
+.works-link {
+	text-align: center;
+	margin: 20px auto;
+}
+
+.usl {
+	background-color: #fff;
+	color: #3f3f3f;
+}
+.usl-block {
+	margin: 50px auto;
+	clear: both;
+	height: 150px;
+}
+
+.usl-block img {
+	width: 220px;
+	height: 150px;
+	float: left;
+
+	margin-right: 30px;
+}
+
+.usl-post {
+	float: left;
+	width: 550px;
+}
+.usl-post-title {
+	font-size: 18px;
+	font-weight: Bold;
+}
+
+.usl-post-description {
+	font-size: 16px;
+	padding-top: 10px;
+}
+
+.usl-post-button {
+	padding-top: 20px;
+}
+
+.usl-post-button a {
+	background-color: #9ad4a6;
+	color: #FFF;
+	font-family: Tahoma;
+	text-decoration: none;
+	padding: 10px;
+	border-radius: 10px;
+}
+
