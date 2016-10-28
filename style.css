@@ -9,6 +9,8 @@ header {
 	width: 800px;
 	margin: 0 auto;
 	overflow: hidden;
+	padding-bottom: 20px;
+
 }
 .head-logo {
 	width: 200px;
@@ -86,8 +88,6 @@ a.in {
 	width: 240px;
 	float: left;
 	color: #323232;
-	text-align: center;	
-	border:#fff solid 1px;
 	text-align: center;
 	margin-left: 12px;
 }
@@ -299,3 +299,68 @@ hr {
 	font-size: 14px;
 	padding-bottom: 15px;
  }
+ .clients-more {
+ 	text-align: center;
+ 	clear: both;
+ 	margin: 0 auto;
+ 	padding: 20px;
+ }
+
+ .obr {
+ 	background-color: #3c3c3c;
+ }
+
+ .obr-description {
+ 	width: 380px;
+	text-align: center;
+	padding-top: 15px;
+	font-size: 14px;
+	margin: 0 auto;
+ 	color: #b2d2de;
+ }
+
+.obr-form {
+	width: 800px;
+	text-align: center;
+}
+.form-el {
+	margin-top: 20px;
+}
+.input {
+	padding: 10px;
+	border: #fff solid 0px;
+	border-radius: 10px;
+	width: 370px;
+}
+.input-button {
+	padding: 12px;
+	margin-bottom: 20px;
+	border: #fff solid 0px;
+	border-radius: 10px;
+	font-weight: Bold;
+}
+footer {
+	padding-top: 20px;
+	background-color: #3c3c3c;
+	color: #a2a3a3; 		
+
+}
+footer hr {
+	width: 800px;
+	background-color: #171717;
+	border: none; 
+    color: #171717;
+    height: 1px;
+}
+.author {
+	color: #fed57e;
+}
+.footer-social {
+	width: 200px;
+	display: inline;
+	float: left;
+	padding-top: 15px;
+}
+.footer-social IMG {
+	width: 30px;
+}
