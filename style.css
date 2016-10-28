@@ -90,7 +90,7 @@ header {
 .works {
 	background-color: #99d4a5;
 }
-.works-label {
+.section-label {
 	margin: 0 auto;
 	text-align: center;
 	padding-top: 15px;
@@ -185,3 +185,55 @@ text-align: center;
 	border-radius: 10px;
 }
 
+.team {
+	background-color: #e1b7c7;
+	color: #3f3f3f;
+}
+ .team-description {
+ 	width: 380px;
+	text-align: center;
+	padding-top: 15px;
+	font-size: 14px;
+	margin: 0 auto;
+ 	color: #3e3e3e;
+ }
+
+ .team-person {
+ 	width: 220px;
+	margin: 15px 20px;
+	background-color: #fff;
+	text-align: center;
+	float: left;
+ }
+ .team-person IMG {
+ 	width: 120px;
+ 	height: 120px;
+ 	padding-top: 15px;
+ 	padding-right: 50px;
+ 	padding-left: 50px;
+ 	padding-bottom: 20px;
+ 	background-color: #e9e9e9;
+
+ }
+ .team-name {
+ 	font-size: 26px;
+ 	padding-bottom: 5px;
+ }
+ .team-role {
+ 	font-size: 18px;
+	font-weight: Bold;
+	padding-bottom: 15px;
+ }
+ .team-about {
+ 	margin: 0 auto;
+ 	width: 190px;
+	font-size: 16px;
+	padding-bottom: 15px;
+ }
+ .team-social IMG {
+	width: 30px;
+	height: 30px;
+	padding: 0px;
+	background-color: #fff;
+	padding-bottom: 15px;
+ }
